@@ -2,9 +2,7 @@
 <h1>Hi there, I'm Oliver Larsen👋</h1>
 
 
-### Hi there 👋
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Oliver1703dk&label=Profile%20views&color=0e75b6&style=flat" alt="Oliver1703dk" /> </p>
+<!--<p align="center"> <img src="https://komarev.com/ghpvc/?username=Oliver1703dk&label=Profile%20views&color=0e75b6&style=flat" alt="Oliver1703dk" /> </p>--->
 
 
 <div align="center">
